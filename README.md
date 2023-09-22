@@ -1,0 +1,2 @@
+# docker-rtlsdr
+containerized librtlsdr
